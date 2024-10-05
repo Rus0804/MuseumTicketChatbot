@@ -1,0 +1,34 @@
+# Flask (or Django, FastAPI, etc., if it's a web project)
+Flask==2.3.2
+
+# LangChain for chatbot logic
+langchain==0.0.147
+
+# Database connectors (like SQLAlchemy, psycopg2, etc.)
+SQLAlchemy==2.0.20
+psycopg2-binary==2.9.6
+
+# Azure API for translations
+azure-ai-translation==1.2.1
+
+# Clever Cloud or similar hosting-related dependencies
+clevercloud-sdk==1.0.0
+
+# Payment integration (e.g., Stripe, PayPal)
+stripe==3.0.0
+
+# ChatGroq for chatbot integration
+chatgroq==0.0.6
+
+# Streamlit for front-end interaction
+streamlit==1.24.0
+
+# NLTK (or other language processing tools)
+nltk==3.8.1
+
+# Data analysis (e.g., pandas, numpy)
+pandas==2.0.3
+numpy==1.26.0
+
+# Other optional tools (e.g., for testing, etc.)
+pytest==7.2.1
