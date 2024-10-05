@@ -1,8 +1,8 @@
 # LangChain for chatbot logic
 langchain
 
-# Azure API for translations
-azure-ai-translation
+# HTTP requests
+requests==2.31.0
 
 # Streamlit for front-end interaction
 streamlit
