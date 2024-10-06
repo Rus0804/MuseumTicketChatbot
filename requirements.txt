@@ -10,4 +10,5 @@ requests==2.31.0
 # Streamlit for front-end interaction
 streamlit
 
+# SQL for db manipulation
 mysql-connector-python
