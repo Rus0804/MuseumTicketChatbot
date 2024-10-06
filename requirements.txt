@@ -9,6 +9,3 @@ requests==2.31.0
 
 # Streamlit for front-end interaction
 streamlit
-
-#sql
-mysql
